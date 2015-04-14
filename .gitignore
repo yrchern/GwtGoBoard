@@ -1,0 +1,4 @@
+.gwt/*
+gwt-unitCache/*
+war/gwtgoboard/*
+.gitignore.swp
