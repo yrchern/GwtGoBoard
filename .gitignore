@@ -1,4 +1,5 @@
 .gwt/*
 gwt-unitCache/*
 war/gwtgoboard/*
+war/WEB-INF/*
 .gitignore.swp
