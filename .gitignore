@@ -2,4 +2,7 @@
 gwt-unitCache/*
 war/gwtgoboard/*
 war/WEB-INF/*
+.classpath
+.project
+.settings/*
 .gitignore.swp
